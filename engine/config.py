@@ -1,0 +1,2 @@
+ASSISTANT_NAME = "Baba"
+LLM_KEY = "AIzaSyBsYNNlGByfxdzH_W61rCWy2dP5bTEkBw8" 
